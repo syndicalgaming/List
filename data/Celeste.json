@@ -1,5 +1,13 @@
+
 {
+    "id": ,
     "name": "Celeste",
     "author": "Maddy Makes Games Inc.",
-    "verification": "https://www.youtube.com/watch?v=70d9irlxiB4"
+    "creators": [],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=70d9irlxiB4",
+    "percentToQualify": "",
+    "password": "",
+    "records": [
+    ]
 }
